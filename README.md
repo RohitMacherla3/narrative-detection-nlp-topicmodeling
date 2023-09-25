@@ -6,5 +6,5 @@ This project aims to detect narrative spread across diverse platforms such as Em
 1. Include date column for email data - Completed
 2. Filter 2022 data only for 10 months - Completed
 3. Convert text to passages using existing code with modifications -  In progress
-4. Run the MPNet LLM and get embeddings - Not Started
+4. Run the MPNet LLM and get embeddings at passages level - In progress
 5. Run the DP-Means Clustering and obtain results - Not Started
