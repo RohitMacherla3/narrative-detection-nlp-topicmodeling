@@ -3,8 +3,9 @@ This project aims to detect narrative spread across diverse platforms such as Em
 
 
 ## This week's Action Items:
-1. Include date column for email data - Completed
-2. Filter 2022 data only for 10 months - Completed
-3. Convert text to passages using existing code with modifications -  Completed
-4. Run the MPNet LLM and get embeddings at passages level - In progress (TV Remaining)
-5. Run the DP-Means Clustering and obtain results - In Progress
+1. Get the Amarel Cluster issue resolved - Ticket raised
+2. Run the MPNet LLM and get embeddings at passages level - In progress (TV Remaining)
+3. Try FAISS on K-Means
+4. Try Link Transformer
+5. Get the next Steps from paper
+6. Run the DP-Means Clustering and obtain results - on hold
