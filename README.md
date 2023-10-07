@@ -3,9 +3,10 @@ This project aims to detect narrative spread across diverse platforms such as Em
 
 
 ## This week's Action Items:
-1. Get the Amarel Cluster issue resolved - Ticket raised
+1. Get the Amarel Cluster issue resolved - Resolved
 2. Run the MPNet LLM and get embeddings at passages level - In progress (TV Remaining)
-3. Try FAISS on K-Means
+3. Try FAISS on K-Means - Completed
 4. Try Link Transformer
-5. Get the next Steps from paper
-6. Run the DP-Means Clustering and obtain results - on hold
+5. Get the next Steps from the paper - Completed
+6. Try BERTopic for Clustering - waiting for confirmation
+7. Run the DP-Means Clustering and obtain results - on hold
