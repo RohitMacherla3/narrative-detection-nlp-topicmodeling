@@ -34,6 +34,15 @@ This project aims to detect narrative spread across diverse platforms such as Em
 7. Get Top unigrams and bigrams for all data sources
 - Generate unigrams and bigrams and compare the top of them across all data sources to identify unique unigrams/bigrams to certain data sources.
 
+## Action Items: Oct 13 - Oct 19:
+
+1. Obtain Clusters for all data sources using BERTopic
+- Clusters obtained for Emails and Podcast data. Pending on Amarel for running it for TV data.
+
+2. Keyword Analysis
+- Implemented code for extracting unigrams and bigrams for TV data channel wise.
+- Extracted top antipathy words using sentiment analysis LLM and plotted the comparisons for 3 TV channels
+- Performed context-word analysis to identify before and after words for a particular keyword. 
 
 
 ## Action Items: Oct 3 - Oct 12:
