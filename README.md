@@ -4,7 +4,6 @@ This project aims to detect narrative spread across diverse platforms such as Em
 
 
 
-## This week's Action Items:
 1. Cluster Similarity Analysis (Jaccard)
 - Manually look through the similar cluster passages (47), understand and document the similarities on a google doc.
 - Do a timestamp analysis of which source the narrative originated, identify trends if any, and plot a time series.
